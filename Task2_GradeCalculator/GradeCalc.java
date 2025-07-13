@@ -52,6 +52,10 @@ public class GradeCalc
         {
             grade = 'D';
         }
+        else if (avg_percent >= 45)
+        {
+            grade = 'E';
+        }
         else
         {
             grade = 'F';

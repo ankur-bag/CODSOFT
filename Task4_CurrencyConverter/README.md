@@ -4,13 +4,8 @@ This is Task 4 of the Java Development Internship at CodeSoft.
 
 ## Description
 
-A console-based Java program that converts a given amount in Indian Rupees (Rs.) to a selected foreign currency.
+This project is a real-time currency converter built in Java that allows users to convert an amount from one currency to another using live exchange rates fetched from ExchangeRate-API.
 
-Supported currencies:
-- US Dollar (USD)
-- Euro (EUR)
-- British Pound (GBP)
-- Japanese Yen (JPY)
 
 ## How to Run
 
@@ -22,27 +17,21 @@ Supported currencies:
 
 ## Features
 
-- Takes input amount in Rs.
-- Allows user to choose from 4 currency options
-- Uses fixed conversion rates
-- Displays converted amount in selected currency
-- Clean and user-friendly
+- Select base and target currencies
+
+- Enter amount to convert
+
+- Fetch live conversion rates via API
+
+- Output accurate converted value
 
 ## Sample Output
 
-Welcome to the Currency Converter
-Enter amount in Rs.: 1000
+Enter base currency (e.g., USD): INR  
+Enter target currency (e.g., USD): USD  
+Enter amount to convert: 20000
 
-Select currency to convert into:
+ *OUTPUT*
+ 20000.00 INR = 239.00 USD
 
-US Dollar (USD)
-
-Euro (EUR)
-
-British Pound (GBP)
-
-Japanese Yen (JPY)
-Enter your choice (1-4): 1
-
-Rs. 1000.00 = 12.05 USD
 

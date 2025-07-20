@@ -2,7 +2,7 @@
 
 This is Task 3 of the Java Development Internship at CodeSoft.
 
-## 📝 Description
+##  Description
 
 A console-based ATM simulation program that allows the user to:
 
@@ -16,7 +16,7 @@ A console-based ATM simulation program that allows the user to:
 
 The program uses menu-driven interaction and loops until the user exits.
 
-## 💻 How to Run
+##  How to Run
 
 1. Open terminal or command prompt.
 2. Navigate to the folder containing `ATM_Interface.java`.
@@ -24,14 +24,14 @@ The program uses menu-driven interaction and loops until the user exits.
 4. Run the program:
 
 
-## 💡 Features
+## Features
 
 - PIN Setup and Validation
 - Balance Setup and Live Tracking
 - Menu-driven interface (do-while + switch-case)
 - Input validation for withdrawals and deposits
 
-## 📌 Sample Output
+##  Sample Output
 
 Welcome to the ATM Interface
 Please set your 4-digit PIN: 1234

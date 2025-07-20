@@ -11,20 +11,20 @@ public class GradeCalc
 
         System.out.print("Enter the number of subjects: ");
         int sub_count = sc.nextInt();
-        sc.nextLine(); // consume newline
+        sc.nextLine(); 
 
         String[] subjects = new String[sub_count];
         int[] marks = new int[sub_count];
         int total_marks = 0;
 
-        // Taking subject names
+      
         for (int i = 0; i < sub_count; i++)
         {
             System.out.print("Enter name of subject " + (i + 1) + ": ");
             subjects[i] = sc.nextLine();
         }
 
-        // Taking marks by subject name
+        
         for (int i = 0; i < sub_count; i++)
         {
             System.out.print("Enter marks for " + subjects[i] + ": ");
@@ -51,6 +51,10 @@ public class GradeCalc
         else if (avg_percent >= 60)
         {
             grade = 'D';
+        }
+        else if (avg_percent >= 45)
+        {
+            grade = 'E';
         }
         else
         {

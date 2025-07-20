@@ -23,7 +23,7 @@ Each task folder contains:
 - Git & GitHub
 - VS Code
 
-## 📌 Completed During:
+##  Completed During:
 - **CodSoft Internship Program – July 2025**
 - Internship Mode: Remote
 

@@ -18,7 +18,7 @@ Each task folder contains:
 - README with explanation
 - Sample output (if needed)
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Java (Core)
 - Git & GitHub
 - VS Code

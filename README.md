@@ -27,7 +27,3 @@ Each task folder contains:
 - **CodSoft Internship Program – July 2025**
 - Internship Mode: Remote
 
-## 🔗 GitHub Repo Link
-[https://github.com/ankur-bag/CODSOFT](https://github.com/ankur-bag/CODSOFT)
-
-Feel free to explore, review the code, or fork the repository!
